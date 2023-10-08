@@ -1,0 +1,4 @@
+UI_FR = {
+	UI_optionscreen_binding_OPTION_INSPECT_WEAPON = "Inspecter l'arme",
+	UI_optionscreen_binding_OPTION_INSPECT_CURRENT_WEAPON = "Inspecter l'arme actuelle",
+}
