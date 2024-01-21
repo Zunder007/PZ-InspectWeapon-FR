@@ -19,5 +19,10 @@ IG_UI_FR = {
 	IGUI_RISKY_SCOPE = "Viseur",
 	IGUI_RISKY_SLING = "Sangle",
 	IGUI_RISKY_STOCK = "Crosse",
-	IGUI_RISKY_AMMO = "Munition"
+	IGUI_RISKY_AMMO = "Munition",
+	IGUI_RISKY_BACK = "Dos",
+	IGUI_RISKY_REPAIR = "Réparer",
+	IGUI_RISKY_DETACH = "Détacher",
+	IGUI_RISKY_EJECT = "Éjecter",
+	IGUI_RISKY_ATTACH = "Attacher",
 }
